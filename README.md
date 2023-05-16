@@ -1,4 +1,4 @@
 - Hi, my name is Aidan
-- I’m interested in software engineering, machine learning and cybersecurity
+- I’m interested in embedded software engineering, cybersecurity and machine learning
 - I’m currently working on getting my bachelor's degree in Computer Science
 - You can reach me at my email: adstrawder@gmail.com
